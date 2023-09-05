@@ -1,0 +1,22 @@
+{
+  "name": "logorepo_10",
+  "version": "1.0.0",
+  "description": "This is for homework 10",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/JeehawdJack/LOGOREPO_10.git"
+  },
+  "author": "Simeoni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JeehawdJack/LOGOREPO_10/issues"
+  },
+  "homepage": "https://github.com/JeehawdJack/LOGOREPO_10#readme"
+}
