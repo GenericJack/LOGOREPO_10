@@ -18,5 +18,11 @@
   "bugs": {
     "url": "https://github.com/JeehawdJack/LOGOREPO_10/issues"
   },
-  "homepage": "https://github.com/JeehawdJack/LOGOREPO_10#readme"
+  "homepage": "https://github.com/JeehawdJack/LOGOREPO_10#readme",
+  "dependencies": {
+    "inquirer": "^9.2.10"
+  },
+  "devDependencies": {
+    "jest": "^29.6.4"
+  }
 }
