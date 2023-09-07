@@ -55,6 +55,9 @@ async function startApp() {
     
     svg.setShape(shape);
 
+    // Set the text to be rendered inside the shape
+    svg.setShapeText(userInput.text, userInput.textColor);
+
     // Generate the SVG code
     const svgCode = svg.render();
 
